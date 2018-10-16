@@ -61,7 +61,7 @@ success_msg("Some praise! Then reinforce a learning objective from the exercise.
 
 ---
 
-## Insert exercise title here
+## Data Preparation for Clustering
 
 ```yaml
 type: VideoExercise
